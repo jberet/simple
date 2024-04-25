@@ -39,7 +39,7 @@
 
     <properties>
         <main.class>org.jberet.se.Main</main.class>
-        <version.org.jberet>2.1.2.Final</version.org.jberet>
+        <version.org.jberet>2.2.1.Final</version.org.jberet>
     </properties>
 
     <dependencies>
